@@ -24,7 +24,3 @@ Welcome to **Training Platform**, your all-in-one solution for managing and deli
 | HTML, CSS, JS  | Python (Flask) | SQLite(Soon) | PDF Generation   |
 | Tailwind CSS   | REST API       | CSV Support  | Vanilla JavaScript|
 
----
-
-## 📦 Folder Structure
-
